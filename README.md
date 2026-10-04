@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Utkarsh566/Leetcode/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Utkarsh566/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Utkarsh566/Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -53,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Utkarsh566/Leetcode/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Utkarsh566/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
