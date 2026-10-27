@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Utkarsh566/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Utkarsh566/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Utkarsh566/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Utkarsh566/Leetcode/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -75,4 +78,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
