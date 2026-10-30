@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Utkarsh566/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Utkarsh566/Leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Utkarsh566/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Utkarsh566/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh566/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Utkarsh566/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Utkarsh566/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh566/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Utkarsh566/Leetcode/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
