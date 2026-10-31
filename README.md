@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Utkarsh566/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Utkarsh566/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Utkarsh566/Leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Utkarsh566/Leetcode/tree/master/2235-add-two-integers) |
 ## Array
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Utkarsh566/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Utkarsh566/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Utkarsh566/Leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/0912-sort-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Utkarsh566/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -107,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Utkarsh566/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
