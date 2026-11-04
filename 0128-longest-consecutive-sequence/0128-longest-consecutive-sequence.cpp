@@ -7,9 +7,7 @@ public:
         }
          sort(nums.begin(),nums.end());
         
-        int curr=0;
-        int lastSmallest=INT_MIN;
-        int largest=1;
+        int curr=0,lastSmallest=INT_MIN,largest=1;
         for(int i=0;i<n;i++){
             if(nums[i]-1==lastSmallest){
                 curr+=1;
