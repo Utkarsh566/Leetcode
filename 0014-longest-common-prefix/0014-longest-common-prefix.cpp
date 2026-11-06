@@ -10,7 +10,7 @@ public:
                     return ans;
                 }
             }
-             ans = ans + ch;
+             ans+=ch;
         }
        return ans;
         
