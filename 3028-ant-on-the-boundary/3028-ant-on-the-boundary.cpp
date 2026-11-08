@@ -7,7 +7,7 @@ public:
 
         for(int i = 0; i < nums.size(); i++) {
 
-            sum = sum + nums[i];
+            sum += nums[i];
 
             if(sum == 0) {
                 count++;
