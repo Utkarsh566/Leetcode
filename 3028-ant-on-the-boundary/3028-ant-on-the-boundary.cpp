@@ -1,16 +1,19 @@
 class Solution {
 public:
     int returnToBoundaryCount(vector<int>& nums) {
-        int pos=0;
-        int ans=0;
 
-        for(int x:nums){
-            pos+=x;
+        int sum = 0;
+        int count = 0;
 
-            if(pos==0){
-                ans++;
+        for(int i :nums) {
+
+            sum += i;
+
+            if(sum == 0) {
+                count++;
             }
         }
-        return ans;
+
+        return count;
     }
 };
