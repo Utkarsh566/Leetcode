@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Utkarsh566/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3028-ant-on-the-boundary](https://github.com/Utkarsh566/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3637-trionic-array-i](https://github.com/Utkarsh566/Leetcode/tree/master/3637-trionic-array-i) |
 ## Bit Manipulation
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh566/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3028-ant-on-the-boundary](https://github.com/Utkarsh566/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh566/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3028-ant-on-the-boundary](https://github.com/Utkarsh566/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Stack
 |  |
 | ------- |
