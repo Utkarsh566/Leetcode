@@ -4,18 +4,12 @@ public:
 
         int n = nums.size();
 
-        unordered_map<int, int> hash;
 
-        for(int i = 0; i < n; i++) {
-            hash[nums[i]] = i;
-        }
-
-        for(int i = 0; i < n; i++) {
-            if(nums[i] >= target) {
-                return i;
+            int lb=lower_bound(nums.begin(),nums.end(),target)-nums.begin();
+                return lb;
             }
-        }
+        
 
-        return n;
-    }
+  
+    
 };
