@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Utkarsh566/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Utkarsh566/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Utkarsh566/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Utkarsh566/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Utkarsh566/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Utkarsh566/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh566/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Utkarsh566/Leetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh566/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3028-ant-on-the-boundary](https://github.com/Utkarsh566/Leetcode/tree/master/3028-ant-on-the-boundary) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarsh566/Leetcode/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Utkarsh566/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
