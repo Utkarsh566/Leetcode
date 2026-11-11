@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Utkarsh566/Leetcode/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh566/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Utkarsh566/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/Utkarsh566/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Utkarsh566/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Utkarsh566/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Utkarsh566/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Utkarsh566/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/Utkarsh566/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Utkarsh566/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Utkarsh566/Leetcode/tree/master/0389-find-the-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/Utkarsh566/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Utkarsh566/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh566/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Queue
