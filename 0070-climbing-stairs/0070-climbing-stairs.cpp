@@ -5,7 +5,7 @@ public:
      int a=1, b=2;
      for(int i=3;i<=n;i++){
         int c=a+b;
-        a=b;b=c;
+        a=b,b=c;
      }
         return b;
     }
