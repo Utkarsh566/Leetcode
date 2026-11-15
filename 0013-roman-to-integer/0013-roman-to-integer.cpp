@@ -19,10 +19,10 @@ public:
         for(int i = 0; i < n; i++) {
 
             if(i < n-1 && mpp[s[i]] < mpp[s[i+1]]) {
-                ans = ans - mpp[s[i]];
+                ans -= mpp[s[i]];
             }
             else {
-                ans = ans + mpp[s[i]];
+                ans +=mpp[s[i]];
             }
         }
 
