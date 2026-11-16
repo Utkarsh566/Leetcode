@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Utkarsh566/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Utkarsh566/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Utkarsh566/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Utkarsh566/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Utkarsh566/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh566/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2235-add-two-integers](https://github.com/Utkarsh566/Leetcode/tree/master/2235-add-two-integers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Utkarsh566/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Utkarsh566/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Utkarsh566/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
