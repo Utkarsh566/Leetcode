@@ -14,22 +14,17 @@ public:
                 count = 0;
             }
         }
-
         noofB += (count / k);
-
         return noofB >= m;
     }
-
     int minDays(vector<int>& bloomDay, int m, int k) {
         long long val = m * 1LL * k;
 
         int n = bloomDay.size();
 
         if (val > n) return -1;
-
         int maxi = INT_MIN;
         int mini = INT_MAX;
-
         for (int i = 0; i < n; i++) {
             mini = min(mini, bloomDay[i]);
             maxi = max(maxi, bloomDay[i]);
