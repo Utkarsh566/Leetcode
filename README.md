@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Utkarsh566/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Utkarsh566/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh566/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/Utkarsh566/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Utkarsh566/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Utkarsh566/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Utkarsh566/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Utkarsh566/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh566/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
 |  |
 | ------- |
