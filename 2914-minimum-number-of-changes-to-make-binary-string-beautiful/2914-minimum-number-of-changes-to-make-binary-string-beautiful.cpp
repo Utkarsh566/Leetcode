@@ -6,8 +6,5 @@ public:
         for(int i=0;i<n;i+=2)
             cost+=(s[i]!=s[i+1]);
               return cost;
-        
-      
-        
     }
 };
