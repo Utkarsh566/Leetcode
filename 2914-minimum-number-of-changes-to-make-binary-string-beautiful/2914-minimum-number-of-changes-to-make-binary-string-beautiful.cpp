@@ -1,14 +1,13 @@
 class Solution {
 public:
     int minChanges(string s) {
+         const int n=s.size();
         int cost=0;
-        for(int i=0;i<s.length();i+=2){
-            if(s[i]!=s[i+1]){
-                cost++;
-
-            }
-        }
-        return cost;
+        for(int i=0;i<n;i+=2)
+            cost+=(s[i]!=s[i+1]);
+              return cost;
+        
+      
         
     }
 };
