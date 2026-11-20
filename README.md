@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Utkarsh566/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Utkarsh566/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Utkarsh566/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Utkarsh566/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Utkarsh566/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh566/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2235-add-two-integers](https://github.com/Utkarsh566/Leetcode/tree/master/2235-add-two-integers) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Utkarsh566/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Utkarsh566/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Utkarsh566/Leetcode/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/Utkarsh566/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Utkarsh566/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh566/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Utkarsh566/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Utkarsh566/Leetcode/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh566/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Utkarsh566/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
