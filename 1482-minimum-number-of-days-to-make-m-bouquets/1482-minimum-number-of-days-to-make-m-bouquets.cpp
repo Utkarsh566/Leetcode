@@ -35,8 +35,7 @@ public:
             maxi = max(maxi, bloomDay[i]);
         }
     int low = mini, high = maxi;
-
-        while (low <= high) {
+     while (low <= high) {
             int mid = low + (high - low) / 2;
 
             if (possible(bloomDay, mid, m, k)) {
