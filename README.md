@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Utkarsh566/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Utkarsh566/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Utkarsh566/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3028-ant-on-the-boundary](https://github.com/Utkarsh566/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3637-trionic-array-i](https://github.com/Utkarsh566/Leetcode/tree/master/3637-trionic-array-i) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Utkarsh566/Leetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh566/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/Utkarsh566/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3028-ant-on-the-boundary](https://github.com/Utkarsh566/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Stack
