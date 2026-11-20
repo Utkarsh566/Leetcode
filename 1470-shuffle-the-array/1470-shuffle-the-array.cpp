@@ -8,7 +8,6 @@ public:
             ans.push_back(nums[i]);
             ans.push_back(nums[i+n]);
         }
-
-        return ans;
+         return ans;
     }
 };
