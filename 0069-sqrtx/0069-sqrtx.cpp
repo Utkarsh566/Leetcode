@@ -1,16 +1,19 @@
-    class Solution {
-    public:
-        int mySqrt(int x) {
-            int ans=0;
-            for(int i=1;i<=x;i++){
-                if(1LL * i * i <= x){
-                    ans=i;
-                }
-                else{
-                    break;
-                }
+class Solution {
+public:
+    int mySqrt(int x) {
+        int low = 1, high = x;
+
+        while(low <= high) {
+            int mid = low + (high-low)/2;
+
+            if(1LL * mid * mid <= x) {
+                low = mid + 1;
             }
-            return ans;
-            
+            else {
+                high = mid - 1;
+            }
         }
-    };
+
+        return high;
+    }
+};
