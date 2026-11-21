@@ -20,5 +20,6 @@ int sumofD(vector<int>& arr, int div){
             }
         }
         return low;
+        
     }
 };
