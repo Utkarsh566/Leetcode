@@ -4,7 +4,6 @@ public:
         long long x=min({a,b,c});
         long long z=max({a,b,c});
         long long y=1LL*a+b+c-x-z;
-        return min(z-x,y);
-        
+        return min(z-x,y);       
     }
 };
