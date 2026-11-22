@@ -36,6 +36,5 @@ int find(vector<int>&weights, int cap){
         }
       }
       return low;
-
     }
 };
