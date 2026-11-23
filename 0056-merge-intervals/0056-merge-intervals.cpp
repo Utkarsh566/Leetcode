@@ -15,7 +15,6 @@ public:
                 ans.back()[1] = max(ans.back()[1], intervals[i][1]);
             }
         }
-
         return ans;
     }
 };
