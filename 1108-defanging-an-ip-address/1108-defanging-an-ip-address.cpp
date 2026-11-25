@@ -10,7 +10,6 @@ public:
                 ans+=address[i];
             }
         }
-        return ans;
-        
+        return ans;        
     }
 };
