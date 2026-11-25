@@ -16,7 +16,6 @@ public:
                 a++;
             }
         }
-        return a ;
-        
+        return a ;        
     }
 };
